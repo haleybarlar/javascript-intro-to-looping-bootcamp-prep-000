@@ -28,8 +28,7 @@ function doWhileLoop(array) {
     array++;
     }
     
-  while {
-    
+  while(array.length > 0 && maybeTrue())
   }
 
 }
