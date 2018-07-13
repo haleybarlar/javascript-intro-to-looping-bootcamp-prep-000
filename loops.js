@@ -25,7 +25,11 @@ function doWhileLoop(array) {
   
   do { 
     (array - 1);
-    
+    array++;
     }
+    
+  while {
+    
+  }
 
 }
